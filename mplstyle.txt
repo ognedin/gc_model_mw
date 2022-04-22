@@ -1,0 +1,27 @@
+savefig.bbox : tight
+savefig.dpi : 300
+figure.dpi : 150
+lines.linewidth : 1.5
+font.family : sans-serif
+font.sans-serif : Verdana
+font.size : 10
+axes.labelsize : 15
+errorbar.capsize : 0
+xtick.direction : in 
+ytick.direction : in
+xtick.top : True
+ytick.right : True
+xtick.major.pad : 5
+xtick.minor.pad : 5
+ytick.major.pad : 5
+ytick.minor.pad : 5
+xtick.major.size : 5
+ytick.major.size : 5
+xtick.labelsize : 12
+ytick.labelsize : 12
+legend.fontsize : 12
+legend.frameon : False
+text.usetex : True
+
+
+
