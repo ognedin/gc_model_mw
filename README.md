@@ -1,8 +1,6 @@
 # gc_model_mw
 
-Catalog of model globular clusters in the Milky Way
-
-This is a mock catalog of Galactic globular clusters calculated with a model for the formation and evolution of globular cluster systems. Current version of the model published in Chen & Gnedin (2022). It is based on earlier versions developed in Muratov & Gnedin (2010), Li & Gnedin (2014), Choksi et al. 2018, Choksi & Gnedin 2019a, Choksi & Gnedin 2019b.
+This is a mock catalog of Galactic globular clusters calculated with a model for the formation and evolution of globular cluster systems. Current version of the model published in Chen & Gnedin (2022).
 
 The model matches the observed mass function and age-metallicity distribution of the Galactic globular clusters. Current version of the model adds information on the spatial and kinematic distributions of the globular cluster system, based on tagging particles from the Illustris TNG50 simulation. It matches the observed surface number density profile and the velocity dispersion profile of the Galactic globular clusters.
 
