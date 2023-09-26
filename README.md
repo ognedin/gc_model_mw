@@ -10,7 +10,7 @@ The catalog matches the observed mass function, radial and velocity dispersion p
 
 The catalog of clusters remaining gravitationally bound to redshift $z=0$ provides the information on cluster age, mass at formation and at $z=0$, Cartesian coordinates and velocities at $z=0$, orbital actions in the best-fitting halo+disk galaxy potential, apocenter and pericenter radii, value of the potential, cluster iron metallicity, total and stellar mass of host galaxy at formation, and total and stellar mass of host galaxy at $z=0$. The catalog also contains tags `host_id_form` and `host_id_accrete` to mark clusters formed in the central halo (_in-situ_) and in satellite galaxies (_ex-situ_), and gives the time of accretion for the _ex-situ_ clusters.
 
-The catalog of disrupted clusters contains also the time of disruption. The coordinates and other orbital information is for the center of mass of the resulting stellar stream. The model generates clusters with a minimum initial mass of $10^4$ M$_\odot\,$. Less massive clusters are expected to be disrupted by the present time.
+The catalog of disrupted clusters contains also the time of disruption. The coordinates and other orbital information is for the center of mass of the resulting stellar stream. The model generates clusters with a minimum initial mass of $10^4$ Msun. Less massive clusters are expected to be disrupted by the present time.
 
 The MW catalog contains 3 systems most resembling the Milky Way in their mass assembly history and in the properties of the GC system. Each galaxy provides an alternative possible history of the assembly of the MW globular cluster system. GC systems can be analyzed for all 3 galaxies combined, or for each galaxy separately.
 
