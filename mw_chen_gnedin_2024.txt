@@ -1,4 +1,4 @@
-# galaxy_id | t_form | t_disrupt | t_accrete | log_m_form | log_m_gc  x | y | z | vx | vy | vz | Jr | Jz | Jp | rapo | rperi | Ep | [Fe/H] | host_id_form | host_id_accrete | log_mh_form | log_ms_form | log_mh | log_ms | log_ms_k18
+# galaxy_id | t_form | t_disrupt | t_accrete | log_m_form | log_m_gc | x | y | z | vx | vy | vz | Jr | Jz | Jp | rapo | rperi | Ep | [Fe/H] | host_id_form | host_id_accrete | log_mh_form | log_ms_form | log_mh | log_ms | log_ms_k18
 523889 12.872 -1.000 -1.000 5.409 4.636 1.508 -8.040 2.841 44.589 -109.689 229.326 5.532e+02 1.202e+03 1.931e+02 1.676e+01 4.233e+00 -1.318e+05 -1.282 20000002400000099 -1 10.602 8.374 12.073 10.623 10.674
 523889 12.872 -1.000 -1.000 5.301 4.122 1.780 3.570 9.717 32.354 -19.551 43.346 3.357e+02 7.699e+02 -1.503e+02 1.221e+01 9.592e-01 -1.182e+05 -1.282 20000002400000099 -1 10.602 8.374 12.073 10.623 10.674
 523889 12.872 -1.000 -1.000 5.446 4.762 -17.455 -3.668 -4.305 -41.660 8.197 -97.083 8.474e+02 9.266e+02 -2.959e+02 1.952e+01 4.133e+00 -9.870e+04 -1.184 20000002400000099 -1 10.602 8.374 12.073 10.623 10.674
