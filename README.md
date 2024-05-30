@@ -15,3 +15,5 @@ The catalog of disrupted clusters contains also the time of disruption. The coor
 The MW catalog contains 3 systems most resembling the Milky Way in their mass assembly history and in the properties of the GC system. Each galaxy provides an alternative possible history of the assembly of the MW globular cluster system. GC systems can be analyzed for all 3 galaxies combined, or for each galaxy separately.
 
 The M31 catalog similarly contains 3 systems most resembling the Andromeda galaxy in their mass assembly history and in the properties of the GC system. Each galaxy provides an alternative possible history of the assembly of the M31 globular cluster system. The adjustable model parameters are the same as for the MW catalog.
+
+The source code of the model is available in [this repository](https://github.com/ybillchen/GC_formation_model).
